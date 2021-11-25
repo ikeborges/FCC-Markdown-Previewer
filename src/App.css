@@ -15,6 +15,10 @@ body {
   display: block;
   height: 99vh;
   width: 48vw;
-  margin-right: 4vh;
+  margin-right: 4vw;
   flex: 1;
+}
+
+#preview {
+  width: 48vw;
 }
